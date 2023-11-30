@@ -1,0 +1,9 @@
+# Ignore node_modules directory within the server directory
+/server/node_modules/
+
+# Ignore .env file within the server directory
+/server/.env
+
+# Ignore package-lock.json file within the server directory
+/server/package-lock.json
+
